@@ -8,7 +8,7 @@ const rp = require('request-promise');
 const download = require('download');
 require('./JD_DailyBonus')
 // 公共变量
-const serverJ = 'SCU155693T07abacff6523cb06a958ce815e2514c36011853a4c88b';
+const serverJ = '';
 
 
 
